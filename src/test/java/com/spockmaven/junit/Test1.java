@@ -1,4 +1,4 @@
-package com.spockmaven;
+package com.spockmaven.junit;
 
 import static org.junit.Assert.fail;
 

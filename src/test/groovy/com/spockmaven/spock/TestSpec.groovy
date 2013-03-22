@@ -1,4 +1,4 @@
-package com.spockmaven
+package com.spockmaven.spock
 
 import spock.lang.Specification
 
